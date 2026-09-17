@@ -7,8 +7,28 @@
     "ImageUrl": "https://github.com/neupanejasper.png",
     "SyncContributorsFromRepository": true
   },
+  "Category": "Themes & Starter Kits",
   "Title": "Festive Umbraco",
-  "Description": "Festive Umbraco temporarily transforms the Umbraco backoffice into a festive experience during date ranges you choose. It includes eight seasonal themes — Christmas, Halloween, New Year, Diwali, Valentine's Day, Easter, St Patrick's Day, and Thanksgiving — each with its own subtle background effect, occasional themed cameo, and celebratory toast when content is published. Run a single theme for one occasion or plan the whole year ahead with a schedule that switches automatically. The package is backoffice-only, off by default, and never affects your content or front end.",
+  "Description": "Temporarily transforms the Umbraco backoffice into a festive experience during date ranges you choose. Eight themes — Christmas, Halloween, New Year, Diwali, Valentine's Day, Easter, St Patrick's Day, and Thanksgiving — each with its own subtle background effect, occasional themed cameo, and celebratory toast on publish. Run a single theme for one occasion, or plan the whole year ahead with a schedule that switches itself over. Backoffice only, off by default, and it never touches your content or your front end.",
   "DocumentationUrl": "https://github.com/neupanejasper/FestiveUmbraco#readme",
-  "IssueTrackerUrl": "https://github.com/neupanejasper/FestiveUmbraco/issues"
+  "IssueTrackerUrl": "https://github.com/neupanejasper/FestiveUmbraco/issues",
+  "LicenseTypes": [
+    "Free"
+  ],
+  "PackageType": "Package",
+  "Tags": [
+    "festive",
+    "seasonal",
+    "christmas",
+    "halloween",
+    "diwali",
+    "new-year",
+    "valentines",
+    "easter",
+    "st-patricks-day",
+    "thanksgiving",
+    "backoffice",
+    "theme"
+  ],
+  "VersionDependencyMode": "SemVer"
 }
